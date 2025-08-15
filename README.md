@@ -11,5 +11,7 @@ I am an optimistic Computing student, mostly tech obsessed
 
   ## Fun facts
   Absolutely Christ coded
+
   love language is food
+  
   currently working on being the Stephen Curry of  the Tech world
