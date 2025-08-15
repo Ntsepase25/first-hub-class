@@ -1,2 +1,6 @@
 # First Hub Project
-_Joel_
+# Hi I'm Ntsepase
+
+I am an optimistic Computing student, mostly tech obsessed
+
+## 
