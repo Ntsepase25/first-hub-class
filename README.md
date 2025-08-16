@@ -54,4 +54,4 @@ It’s simple, elegant, and functional.
 
 This project taught me not just coding, but also problem-solving & design thinking.
 
->>>>>>> bb25525a32a5c4fb97b152208fd119352a433408
+
