@@ -1,70 +1,57 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hero Section Presentation Notes
+1. Introduction
 
-## Available Scripts
+I created a Hero Section using React + Tailwind CSS.
 
-In the project directory, you can run:
+The Hero Section is the first part of a webpage that grabs attention.
 
-### `npm start`
+Mine focuses on radiant natural skin (theme: beauty + confidence).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Design Choices
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Layout: Centered hero text + button + background image → clean and modern.
 
-### `npm test`
+Colors: Soft, natural tones (beige/cream/white) for calm, elegant feel.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Fonts: Tailwind’s default sans-serif → professional and minimal.
 
-### `npm run build`
+Images: Natural skin/beauty picture → connects to theme of “radiance.”
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Use of Tailwind CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Used utility classes (e.g., flex, items-center, justify-center) for fast styling.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Applied responsive design (looks good on desktop + mobile).
 
-### `npm run eject`
+Used rounded corners, shadows, padding → modern UI.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Tailwind let me avoid writing extra CSS files.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Challenges
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Struggled with image sizing & alignment → solved using object-cover and h-screen.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+At first, I used too many classes → learned to simplify.
 
-## Learn More
+GitHub repository management was confusing → learned how to upload properly.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. What I Learned
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+How to build a component in React (App.js).
 
-### Code Splitting
+How to style quickly with Tailwind CSS utilities.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+How to make a GitHub repository and upload project files.
 
-### Analyzing the Bundle Size
+Importance of responsive, clean design for user experience.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+6. Conclusion
 
-### Making a Progressive Web App
+My Hero Section communicates natural beauty & confidence.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+It’s simple, elegant, and functional.
 
-### Advanced Configuration
+This project taught me not just coding, but also problem-solving & design thinking.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>>>>>>> bb25525a32a5c4fb97b152208fd119352a433408
