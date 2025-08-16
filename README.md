@@ -26,7 +26,7 @@ Buttons: Bigger size, rounded corners, hover effects for interactivity.
 
 Images: Hero background with self-care/skincare theme to match the headline.
 
-🛠 How I Used Tailwind CSS
+ How I Used Tailwind CSS
 
 Utility classes for spacing, alignment, colors, and font sizes.
 
