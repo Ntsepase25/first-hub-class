@@ -2,7 +2,7 @@
 
 A modern, responsive hero section for a skincare brand landing page, built with React and Tailwind CSS.
 
-## Features
+## Features.
 
 - Modern Design: Clean gradient background with centered layout
 - Responsive: Works perfectly on desktop and mobile devices
